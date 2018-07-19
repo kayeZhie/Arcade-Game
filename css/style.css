@@ -1,3 +1,29 @@
 body {
     text-align: center;
 }
+h1 {
+ color: #009900; 
+ font-family: "Great Vibes", cursive; 
+ font-weight: bold; 
+ margin-top: 40px; 
+ text-align: center; 
+ text-shadow: 0 1px 1px #fff; 
+}
+h2 { 
+	color:#65b9ed; 
+	font-family: "Libre Baskerville", serif; 
+	font-size: 28px; 
+	font-weight: bold;
+	line-height: 32px; 
+	margin: 0 0 24px;
+	text-shadow: 1px 1px 1px #082b34; 
+}
+li {
+	text-align: center;
+	color: #7a7c7f;
+	font-size: 20px; 
+	font-family: "Libre Baskerville", serif; 
+	vertical-align: middle;
+	margin: 0;
+
+}
