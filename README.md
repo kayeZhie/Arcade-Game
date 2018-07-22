@@ -12,7 +12,7 @@
 </ul>
 
 <h2> Screenshot </h2>
-<img src="images/demo.png" alt="Frogger Demo" width="200px" height="200px">
+<img src="images/demo.png" alt="Frogger Demo" width="500px" height="500px">
 
 <h2> Resources I referred to: </h2>
 <p> All of this resources/webinars are given by Udacity's Mentor, Coach, and Student Leader. Big Thank You to them! </p>
