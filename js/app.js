@@ -89,28 +89,11 @@ var checkCollision = function(anEnemy) {
         && player.x + 25 <= anEnemy.x + 88
         && player.y + 73 <= anEnemy.y + 135
         && player.x + 76 >= anEnemy.x + 11) {
-        console.log('collided');
+        alert('oopps! collided! try again!');
         player.x = 202.5;
         player.y = 383;
     }
 
-    // check for player reaching top of canvas and winning the game
-    // if player wins, add 1 to the score and level
-    // pass score as an argument to the increaseDifficulty function
-    if (player.y + 63 <= 0) {        
-        player.x = 202.5;
-        player.y = 383;
-        alert('you made it!');
-
-        ctx.fillStyle = 'green';
-        ctx.fillRect(0, 0, 505, 171);
-
-        score += 1;
-        gameLevel += 1;
-        console.log('current score: ' + score + ', current level: ' + gameLevel);
-        increaseDifficulty(score);
-
-    }
 
     // check if player runs into left, bottom, or right canvas walls
     // prevent player from moving beyond canvas wall boundaries
@@ -125,6 +108,18 @@ var checkCollision = function(anEnemy) {
     }
 };
 
+// Increase number of enemies on screen based on player's score
+var increaseDifficulty = function(numEnemies) {
+    // remove all previous enemies on canvas
+    allEnemies.length = 0;
+
+    // load new set of enemies
+    for (var i = 0; i <= numEnemies; i++) {
+        var enemy = new Enemy(0, Math.random() * 184 + 70, Math.random() * 256);
+        
+        allEnemies.push(enemy);
+    }
+};
 
 // Now instantiate your objects.
 // Place all enemy objects in an array called allEnemies
