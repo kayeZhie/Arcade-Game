@@ -1,6 +1,9 @@
 body {
     text-align: center;
+    background: linear-gradient(to bottom, #ff99ff 0%, #00ffff 100%);
+    background-repeat: no-repeat;
 }
+
 h1 {
  color: #009900; 
  font-family: "Great Vibes", cursive; 
@@ -18,12 +21,11 @@ h2 {
 	margin: 0 0 24px;
 	text-shadow: 1px 1px 1px #082b34; 
 }
-li {
-	text-align: center;
+ul {
 	color: #7a7c7f;
 	font-size: 20px; 
 	font-family: "Libre Baskerville", serif; 
-	vertical-align: middle;
-	margin: 0;
+	text-align: center;
+	list-style-type: none;
 
 }
