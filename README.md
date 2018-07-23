@@ -1,30 +1,31 @@
 
-<h1> Classic Arcade Game -GWG Udacity- </h1>
+Classic Arcade Game -GWG Udacity Front-End Project-
+===================================================
 
-<h2> How to Play the Game </h2>
-<ul>
-	<li> Use arrow keys to move the player.</li>
-	<li> The objective is to reach the water.</li>
-	<li> If the player collided with the bug, the game restarts.</li>
-	<li> Each time the player reaches the water, difficulty increases.</li>
-	<li> Click <a href="https://kayezhie.github.io/Arcade-Game/">here</a> to play the game.</li>
-	<li> Lastly, Enjoy!!!</li>
-</ul>
+How to run the Game locally:
+--------------------
+1. Please go to my [Github Page] (href="https://kayezhie.github.io/Arcade-Game/ "Kaye's Arcade Game").
+2. Download files, or clone repository from [repository url].
+3. Navigate the file then open index.html to launch the game.
 
-<h2> Screenshot </h2>
-<img src="images/demo.png" alt="Frogger Demo" width="500px" height="500px">
+How to Play the Game
+--------------------
+1. Use arrow keys to move the player.
+2. The objective is to reach the water.
+3. If the player collided with the bug, the game restarts.
+4. Each time the player reaches the water, difficulty increases.
+	<Click <a href="https://kayezhie.github.io/Arcade-Game/">here</a> to play the game.
+	 Lastly, Enjoy!!!
 
-<h2> Resources I referred to: </h2>
-<p> All of this resources/webinars are given by Udacity's Mentor, Coach, and Student Leader. Big Thank You to them! </p>
-<ul>
-	<li><a href="http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html">
-	http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html</a></li>
-	<li><a href="https://matthewcranford.com/feed-reader-walkthrough-part-1-starter-code/"></a>
-	https://matthewcranford.com/feed-reader-walkthrough-part-1-starter-code/</li>
-	<li><a href="https://www.youtube.com/watch?v=JcQYGbg0IkQ"></a>
-	https://www.youtube.com/watch?v=JcQYGbg0IkQ</li>
-	<li><a href="https://www.youtube.com/watch?v=0ovAyu3ZvFQ"></a>
-	https://www.youtube.com/watch?v=0ovAyu3ZvFQ</li>
-	<li><a href="https://www.youtube.com/watch?v=7PHhRrjgTDA"></a>
-	https://www.youtube.com/watch?v=7PHhRrjgTDA</li>
-</ul>
+Screenshot
+----------
+![Arcade Demo](images/demo.png")
+
+Resources I referred to:
+------------------------
+All of this resources/webinars are given by Udacity's Mentor, Coach, and Student Leader. Big Thank You to them!
+	(http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html)
+	(https://www.youtube.com/watch?v=JcQYGbg0IkQ)
+	(https://www.youtube.com/watch?v=JcQYGbg0IkQ)
+	(https://www.youtube.com/watch?v=0ovAyu3ZvFQ)
+	(https://www.youtube.com/watch?v=7PHhRrjgTDA)
