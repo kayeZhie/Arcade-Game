@@ -24,8 +24,8 @@ Screenshot
 Resources I referred to:
 ------------------------
 All of this resources/webinars are given by Udacity's Mentor, Coach, and Student Leader. Big Thank You to them!
-	*http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html
-	*https://www.youtube.com/watch?v=JcQYGbg0IkQ
-	*https://www.youtube.com/watch?v=JcQYGbg0IkQ
-	*https://www.youtube.com/watch?v=0ovAyu3ZvFQ
-	*https://www.youtube.com/watch?v=7PHhRrjgTDA
+1. http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html
+2. https://www.youtube.com/watch?v=JcQYGbg0IkQ
+3. https://www.youtube.com/watch?v=JcQYGbg0IkQ
+4. https://www.youtube.com/watch?v=0ovAyu3ZvFQ
+5. https://www.youtube.com/watch?v=7PHhRrjgTDA
